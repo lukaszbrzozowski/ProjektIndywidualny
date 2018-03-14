@@ -9,6 +9,7 @@
 \usepackage{hyperref}
 \usepackage{enumerate}
 \usepackage{blindtext}
+\usepackage{float}
 \begin{document}
 \title{Projekt aplikacji do analizy i wizualizacji danych dotyczących wrażeń synestetycznych}
 \author{Łukasz Brzozowski}
@@ -33,5 +34,20 @@
 	\centering
 	\fbox{\includegraphics[width=11cm]{Prototyp_programu.png}}
 	\caption{Przykładowy interfejs aplikacji dynamicznie tworzącej animacje}
+\end{figure}
+\pagebreak
+\section{Analiza istniejących rozwiązań}
+Na tę chwilę nie są dostępne żadne narzędzia służące do wizualizacji wrażeń synestetycznych wynikających z powiązań wzrokowo-leksykalnych. Można jednak znaleźć aplikacje animujące wrażenia wzrokowo-słuchowe. Bazują one na indywidualnych skojarzeniach tonacji muzycznych i barw instrumentów z kolorami. 
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=11cm]{Bach.jpeg}
+	\caption{Skojarzenia kolorów z tonacjami Jana Sebastiana Bacha}
+\end{figure}
+\pagebreak
+Jedną z możliwych form wizualizacji jest przyporządkowanie kolorów klawiszom klawiatury fortepianu. Użytkownik serwisu YouTube o nicku aniMIDIfy napisał program w języu Python, korzystając również z oprogramowania FFMPEG, SoX, TiMidity, FluidSynth, Python Image Library oraz midicsv.
+\begin{figure}[H]
+	\centering
+	\includegraphics[width=\textwidth]{animidify.jpg}
+	\caption{Klatka animacji z jednego z filmów użytkownia aniMIDIfy}
 \end{figure}
 \end{document}
