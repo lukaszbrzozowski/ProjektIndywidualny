@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.3.7)  14 MAR 2018 22:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.3.7)  21 MAR 2018 08:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -681,13 +681,13 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 17.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<MiNI.png, id=12, 724.306pt x 247.324pt>
+<MiNI.png, id=28, 724.306pt x 247.324pt>
 File: MiNI.png Graphic file (type png)
 <use MiNI.png>
 Package pdftex.def Info: MiNI.png  used on input line 19. on input line 19.
 Package pdftex.def Info: Requested size: 390.0pt x 133.1718pt on input line 19.
 
-<Pw.png, id=14, 698.61pt x 371.3875pt>
+<Pw.png, id=30, 698.61pt x 371.3875pt>
 File: Pw.png Graphic file (type png)
 <use Pw.png>
 Package pdftex.def Info: Pw.png  used on input line 23. on input line 23.
@@ -697,19 +697,19 @@ e 23.
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./MiNI.png> <./Pw.png (PNG
  copy)>]
-<Capture.PNG, id=24, 439.6425pt x 70.76437pt>
+<Capture.PNG, id=40, 439.6425pt x 70.76437pt>
 File: Capture.PNG Graphic file (type png)
 <use Capture.PNG>
 Package pdftex.def Info: Capture.PNG  used on input line 30. on input line 30.
 Package pdftex.def Info: Requested size: 284.52756pt x 45.79869pt on input line
  30.
-<Prototyp_programu.png, id=25, 1027.84pt x 770.88pt>
-File: Prototyp_programu.png Graphic file (type png)
-<use Prototyp_programu.png>
-Package pdftex.def Info: Prototyp_programu.png  used on input line 35. on input
- line 35.
-Package pdftex.def Info: Requested size: 312.9803pt x 234.73576pt on input line
- 35.
+<Synesthesia.png, id=41, 1204.5pt x 456.70625pt>
+File: Synesthesia.png Graphic file (type png)
+<use Synesthesia.png>
+Package pdftex.def Info: Synesthesia.png  used on input line 35. on input line 
+35.
+Package pdftex.def Info: Requested size: 390.0pt x 147.87723pt on input line 35
+.
  [2pdfTeX warning (ext4): destination with the same identifier (name{figure.1})
  has been already used, duplicate ignored
 
@@ -723,61 +723,85 @@ ignored
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
 l.39 \section
-             {Analiza istniejących rozwiązań} <./Capture.PNG> <./Prototyp_pr
-ogramu.png>]
-<Bach.jpeg, id=35, 604.2575pt x 614.295pt>
-File: Bach.jpeg Graphic file (type jpg)
-<use Bach.jpeg>
-Package pdftex.def Info: Bach.jpeg  used on input line 43. on input line 43.
-Package pdftex.def Info: Requested size: 312.9803pt x 318.1792pt on input line 
-43.
- [3pdfTeX warning (ext4): destination with the same identifier (name{figure.3})
- has been already used, duplicate ignored
-
-\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
-                                                  \fi \fi 
-l.47 J
-      edną z możliwych form wizualizacji jest przyporządkowanie kolorów ...
- <./Bach.jpeg>]
-<animidify.jpg, id=41, 1284.8pt x 722.7pt>
+             {Analiza istniejących rozwiązań} <./Capture.PNG> <./Synesthesia
+.png>]
+<animidify.jpg, id=51, 1284.8pt x 722.7pt>
 File: animidify.jpg Graphic file (type jpg)
 <use animidify.jpg>
-Package pdftex.def Info: animidify.jpg  used on input line 50. on input line 50
+Package pdftex.def Info: animidify.jpg  used on input line 46. on input line 46
 .
-Package pdftex.def Info: Requested size: 390.0pt x 219.37004pt on input line 50
+Package pdftex.def Info: Requested size: 390.0pt x 219.37004pt on input line 46
 .
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 53.
- [4pdfTeX warning (ext4): destination with the same identifier (name{figure.4})
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--53
+
+ []
+
+[3pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) 
+has been already used, duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.53 \item{
+           Pobranie próbki tekstu,} <./animidify.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 60--62
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 67--69
+
+ []
+
+[4]
+<Prototyp_programu.png, id=78, 1027.84pt x 770.88pt>
+File: Prototyp_programu.png Graphic file (type png)
+<use Prototyp_programu.png>
+Package pdftex.def Info: Prototyp_programu.png  used on input line 90. on input
+ line 90.
+Package pdftex.def Info: Requested size: 312.9803pt x 234.73576pt on input line
+ 90.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 95.
+ [5pdfTeX warning (ext4): destination with the same identifier (name{figure.4})
  has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.53 \end{document}
-                    <./animidify.jpg>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 53.
+l.95 \end{document}
+                    <./Prototyp_programu.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 95.
  (./Zadanie_projektowe.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 53.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 53.
-Package rerunfilecheck Info: File `Zadanie_projektowe.out' has not changed.
-(rerunfilecheck)             Checksum: C19D608A072EAE487137E8F6C8C0FA73;113.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 53.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 95.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 95.
+
+
+Package rerunfilecheck Warning: File `Zadanie_projektowe.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Zadanie_projektowe.out':
+(rerunfilecheck)             Before: 9BAFB2A3D4A23F3E2540FF988E8954E7;342
+(rerunfilecheck)             After:  2C5CE56461A4D53F926C7AE8B7DFAF18;395.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 95.
  ) 
 Here is how much of TeX's memory you used:
- 6785 strings out of 492990
- 94272 string characters out of 6135006
- 177638 words of memory out of 5000000
- 10245 multiletter control sequences out of 15000+600000
- 10386 words of font info for 31 fonts, out of 8000000 for 9000
+ 6818 strings out of 492990
+ 94580 string characters out of 6135006
+ 180638 words of memory out of 5000000
+ 10251 multiletter control sequences out of 15000+600000
+ 11937 words of font info for 33 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 28i,7n,30p,638b,327s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,6n,30p,638b,449s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/
-fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf/fonts/type1/public/c
-m-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb
-></usr/share/texmf/fonts/type1/public/cm-super/sfrm2074.pfb>
-Output written on Zadanie_projektowe.pdf (4 pages, 1343602 bytes).
+fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/c
+m-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb
+></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/f
+onts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf/fonts/type1/public/cm
+-super/sfrm2074.pfb>
+Output written on Zadanie_projektowe.pdf (5 pages, 1646349 bytes).
 PDF statistics:
- 67 PDF objects out of 1000 (max. 8388607)
- 47 compressed objects within 1 object stream
- 11 named destinations out of 1000 (max. 500000)
- 47 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 124 PDF objects out of 1000 (max. 8388607)
+ 100 compressed objects within 1 object stream
+ 37 named destinations out of 1000 (max. 500000)
+ 79 words of extra memory for PDF output out of 10000 (max. 10000000)
 
